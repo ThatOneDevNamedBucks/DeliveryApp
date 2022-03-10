@@ -1,2 +1,3 @@
-# DeliveryApp
-Doordash / Instacart Clone In 1
+# DeliveryApp - Client Side
+Employee Side Coming Soon
+Doordash / Instacart Clone In One
